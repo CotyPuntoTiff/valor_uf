@@ -1,0 +1,4 @@
+class UfDay < ApplicationRecord
+
+    
+end
